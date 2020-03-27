@@ -5,7 +5,7 @@ downloads/
 Downloads/
 *.zip
 *.p
-
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
